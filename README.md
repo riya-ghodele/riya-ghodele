@@ -1,95 +1,105 @@
-# Hi, I'm Riya 👋
+# Hi, I’m Riya 👋  
+🌱 First-Year Student | Aspiring Web Developer
 
-I'm a first-year student starting my journey into coding and soft skills. I'm curious, motivated, and excited to learn step-by-step by building small projects and practicing consistently.
-
----
-
-## About me
-- 🎓 Year: First-year student  
-- 🔭 Currently learning: basic programming concepts, HTML & CSS, JavaScript, and good study habits  
-- 🌱 Also learning: communication, teamwork, and time management (soft skills)  
-- 💬 Ask me about: what I'm learning, beginner projects, or study routines  
-- 📫 Contact: riyaghodele@gmail.com
+I’m a first-year student exploring the world of **web development and programming** through consistent practice, beginner-friendly projects, and continuous learning. I believe in learning step-by-step and improving a little every day.
 
 ---
 
-## Quick badges
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya-ghodele&show_icons=true&count_private=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-ghodele&layout=compact&theme=dark)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=riya-ghodele.riya-ghodele)
-
-![Learning: HTML](https://img.shields.io/badge/Learning-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Learning: CSS](https://img.shields.io/badge/Learning-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Learning: JavaScript](https://img.shields.io/badge/Learning-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 👩‍💻 About Me
+- 🎓 First-year undergraduate student  
+- 🔭 Currently learning: **HTML, CSS, JavaScript (basics)**  
+- 🌱 Also improving: **communication, teamwork & time management**  
+- 💬 Ask me about: beginner projects, study routines, and learning resources  
+- 📫 Email: **riyaghodele@gmail.com**
 
 ---
 
-## My goals (short & simple)
-- Short term (this semester)
-  - Learn HTML, CSS and basic JavaScript
-  - Create 2–3 small projects (personal website, to-do list, simple game)
-  - Learn Git & GitHub basics (push, pull, branches)
-- Medium term (6–12 months)
-  - Learn a backend language or framework (Node.js or Python)
-  - Practice problem solving with beginner-friendly exercises
-  - Improve communication skills through group projects or study groups
-- Long term
-  - Contribute to small open-source projects
-  - Apply for internships or join college coding clubs
-  - Build a portfolio of projects and write short notes about what I learned
+## 🎯 Current Focus
+- Building small JavaScript projects  
+- Practicing Git & GitHub workflows  
+- Strengthening problem-solving fundamentals  
+- Writing clear READMEs to explain what I learn  
 
 ---
 
-## My learning roadmap
-- Foundations
-  - HTML & CSS — structure and layout
-  - JavaScript basics — variables, loops, functions
-  - Git & GitHub — version control and sharing work
-- Practice & Projects
-  - Build simple projects and iterate (personal site, small apps)
-  - Read code from other beginners and try to add features
-- Soft skills
-  - Practice explaining what you built (write short READMEs)
-  - Join or form study groups and do peer code reviews
-  - Time management: set small weekly goals and reflect
-- Problem solving
-  - Start with easy challenges on [freeCodeCamp](https://www.freecodecamp.org), [Codecademy](https://www.codecademy.com), and [LeetCode](https://leetcode.com) (easy)
-  - Use [MDN Web Docs](https://developer.mozilla.org/) for learning web basics
+## 🌟 Featured Project
+### 🎸 Neon Beats – Music Store  
+A modern, responsive e-commerce website for musical instruments built using **HTML, CSS, and Vanilla JavaScript**.  
+**Concepts used:** UI design, DOM manipulation, cart logic, responsive layouts.
+
+➡️ More beginner projects coming soon.
 
 ---
 
-## Beginner-friendly project ideas
-- Personal website / portfolio — introduce yourself and link projects
-- To-do list app — practice DOM, state, and local storage
-- Quiz app — practice data structures (arrays/objects) and logic
-- Simple calculator or timer — practice functions and UI  
-- Note: For each project, write a short README describing what you learned
+## 🛠️ Tools & Technologies
+- HTML5  
+- CSS3 (Flexbox, Grid, basic animations)  
+- JavaScript (ES6 basics)  
+- Git & GitHub  
+- VS Code  
+
+*(Planning to learn Node.js or Python next)*
 
 ---
 
-## Tools & tech I'm starting with
-- HTML, CSS
-- JavaScript (ES6 basics)
-- VS Code
-- Git & GitHub
-- (Later) Node.js or Python
+## 🧭 Learning Roadmap
+**Foundations**
+- HTML & CSS for structure and layout  
+- JavaScript fundamentals (variables, loops, functions)  
+- Git & GitHub for version control  
+
+**Practice & Projects**
+- Build simple web apps and improve them  
+- Read other beginners’ code and experiment  
+
+**Soft Skills**
+- Clear communication through documentation  
+- Time management with weekly goals  
+- Collaboration via group learning  
+
+**Problem Solving**
+- Easy challenges on freeCodeCamp & LeetCode  
+- Reference learning from MDN Web Docs  
 
 ---
 
-## Resources I use
-- MDN Web Docs — https://developer.mozilla.org/
-- freeCodeCamp — https://www.freecodecamp.org
-- Codecademy — https://www.codecademy.com
-- CS50 (intro CS, great for beginners) — https://cs50.harvard.edu
-- Git documentation — https://git-scm.com/doc
+## 📌 Goals
+**Short Term**
+- Build 2–3 small web projects  
+- Gain confidence in JavaScript basics  
+- Learn Git commands and workflows  
+
+**Mid Term**
+- Learn backend fundamentals  
+- Improve logical thinking and problem solving  
+
+**Long Term**
+- Contribute to beginner-friendly open source  
+- Apply for internships  
+- Build a strong personal portfolio  
 
 ---
 
-## How to connect / customize
-- Email: riyaghodele@gmail.com  
-- LinkedIn: [Riya Ghodele](https://www.linkedin.com/in/riya-ghodele)
+## 📊 GitHub Stats
+![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya-ghodele&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-ghodele&layout=compact&theme=dark)
 
 ---
 
-Thank you for visiting my profile — I'm learning one step at a time. If you have advice, beginner project ideas, or want to collaborate on a small project, feel free to reach out!
+## 📚 Learning Resources
+- MDN Web Docs  
+- freeCodeCamp  
+- Codecademy  
+- CS50 (Harvard)  
+- Git Documentation  
+
+---
+
+## 🤝 Let’s Connect
+- 📧 Email: **riyaghodele@gmail.com**  
+- 💼 LinkedIn: [Riya Ghodele](https://www.linkedin.com/in/riya-ghodele)
+
+---
+
+⭐ *Thank you for visiting my profile!*  
+I’m learning one step at a time and always open to feedback, guidance, and beginner-friendly collaborations.
