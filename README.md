@@ -9,7 +9,7 @@ I'm a first-year student starting my journey into coding and soft skills. I'm cu
 - 🔭 Currently learning: basic programming concepts, HTML & CSS, JavaScript, and good study habits
 - 🌱 Also learning: communication, teamwork, and time management (soft skills)
 - 💬 Ask me about: what I'm learning, beginner projects, or study routines
-- 📫 Contact: (add your email or social links below)
+- 📫 Contact: riyaghodele@gmail.com
 
 ---
 
@@ -75,9 +75,8 @@ I'm a first-year student starting my journey into coding and soft skills. I'm cu
 ---
 
 ## How to connect / customize
-Replace these placeholders with your real contact info:
-- Email: your-email@example.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin/)
+- Email: riyaghodele@gmail.com
+- LinkedIn: [Riya Ghodele](https://www.linkedin.com/in/riya-ghodele)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
