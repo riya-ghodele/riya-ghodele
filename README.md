@@ -1,105 +1,117 @@
-# Hi, I’m Riya 👋  
-🌱 First-Year Student | Aspiring Web Developer
+<h1 align="center">Hi 👋, I'm Riya</h1>
+<h3 align="center">First-Year Student | Aspiring Web Developer</h3>
 
-I’m a first-year student exploring the world of **web development and programming** through consistent practice, beginner-friendly projects, and continuous learning. I believe in learning step-by-step and improving a little every day.
+<p align="center">
+  🌱 Learning step-by-step • 💻 Building beginner projects • 🚀 Growing every day
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 - 🎓 First-year undergraduate student  
-- 🔭 Currently learning: **HTML, CSS, JavaScript (basics)**  
-- 🌱 Also improving: **communication, teamwork & time management**  
-- 💬 Ask me about: beginner projects, study routines, and learning resources  
-- 📫 Email: **riyaghodele@gmail.com**
+- 🔭 Currently learning **HTML, CSS & JavaScript**  
+- 🌱 Improving **communication, teamwork & time management**  
+- 💬 Ask me about **beginner projects & study routines**  
+- 📫 Reach me at **riyaghodele@gmail.com**
 
 ---
 
 ## 🎯 Current Focus
-- Building small JavaScript projects  
-- Practicing Git & GitHub workflows  
-- Strengthening problem-solving fundamentals  
-- Writing clear READMEs to explain what I learn  
+- 🧩 Building small JavaScript projects  
+- 🔁 Practicing Git & GitHub workflows  
+- 🧠 Strengthening logic & problem-solving  
+- 📝 Writing clear README files  
 
 ---
 
 ## 🌟 Featured Project
 ### 🎸 Neon Beats – Music Store  
-A modern, responsive e-commerce website for musical instruments built using **HTML, CSS, and Vanilla JavaScript**.  
-**Concepts used:** UI design, DOM manipulation, cart logic, responsive layouts.
+A modern, responsive **e-commerce website for musical instruments** built using **HTML, CSS, and Vanilla JavaScript**.
 
-➡️ More beginner projects coming soon.
+**What it includes:**
+- Product catalog  
+- Shopping cart functionality  
+- Responsive design  
+- Modern UI with animations  
+
+➡️ More projects coming soon!
 
 ---
 
 ## 🛠️ Tools & Technologies
-- HTML5  
-- CSS3 (Flexbox, Grid, basic animations)  
-- JavaScript (ES6 basics)  
-- Git & GitHub  
-- VS Code  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
 
 *(Planning to learn Node.js or Python next)*
 
 ---
 
 ## 🧭 Learning Roadmap
-**Foundations**
+### Foundations
 - HTML & CSS for structure and layout  
-- JavaScript fundamentals (variables, loops, functions)  
-- Git & GitHub for version control  
+- JavaScript fundamentals  
+- Git & GitHub basics  
 
-**Practice & Projects**
-- Build simple web apps and improve them  
-- Read other beginners’ code and experiment  
+### Practice & Projects
+- Build simple web apps  
+- Improve projects step-by-step  
+- Learn by reading others’ code  
 
-**Soft Skills**
-- Clear communication through documentation  
+### Soft Skills
+- Communication through documentation  
 - Time management with weekly goals  
 - Collaboration via group learning  
-
-**Problem Solving**
-- Easy challenges on freeCodeCamp & LeetCode  
-- Reference learning from MDN Web Docs  
 
 ---
 
 ## 📌 Goals
-**Short Term**
-- Build 2–3 small web projects  
-- Gain confidence in JavaScript basics  
-- Learn Git commands and workflows  
+### Short Term
+- Build 2–3 web projects  
+- Strengthen JavaScript basics  
+- Learn Git commands confidently  
 
-**Mid Term**
+### Mid Term
 - Learn backend fundamentals  
-- Improve logical thinking and problem solving  
+- Improve problem-solving skills  
 
-**Long Term**
-- Contribute to beginner-friendly open source  
+### Long Term
+- Contribute to open-source projects  
 - Apply for internships  
-- Build a strong personal portfolio  
+- Build a strong developer portfolio  
 
 ---
 
 ## 📊 GitHub Stats
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya-ghodele&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-ghodele&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riya-ghodele&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-ghodele&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📚 Learning Resources
-- MDN Web Docs  
-- freeCodeCamp  
-- Codecademy  
-- CS50 (Harvard)  
-- Git Documentation  
+- 📘 MDN Web Docs  
+- 🧠 freeCodeCamp  
+- 🎓 CS50 (Harvard)  
+- 📖 Git Documentation  
 
 ---
 
-## 🤝 Let’s Connect
-- 📧 Email: **riyaghodele@gmail.com**  
-- 💼 LinkedIn: [Riya Ghodele](https://www.linkedin.com/in/riya-ghodele)
+## 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/riya-ghodele" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:riyaghodele@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
-⭐ *Thank you for visiting my profile!*  
-I’m learning one step at a time and always open to feedback, guidance, and beginner-friendly collaborations.
+<p align="center">
+  ⭐ Thanks for visiting my profile! <br/>
+  I’m always open to learning, feedback, and beginner-friendly collaborations.
+</p>
